@@ -40,7 +40,7 @@ Final model accuracy: **93.7%**
 
 ## 🔧 How to Run the Project
 # Clone the repo
-git clone https://github.com/saurabhshirole1/fake-news-detection-nlp
+git clone https://github.com/nikhilborade0412/fake-news-detection-nlp
 
 cd fake-news-detection-nlp
 
